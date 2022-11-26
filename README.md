@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @sheeperino
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Rust
